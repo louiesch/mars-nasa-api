@@ -1,8 +1,8 @@
 # {Project Name}
 
-### By Jon Stump
-<img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4">
-#### *Co-Created By:*
+#### *Co-Created By: Jon Stump
+#### *Co-Created By: Louie Schoenknecht
+#### *Co-Created By: 
 
 #### *{Brief Project Description}*
 <!-- Check list
@@ -19,7 +19,7 @@
 * * *
 
 ## Description  
-{project description}
+This is weekly homework for Epicodus regarding APIs using the NASA Api.
 
 * * *
 ## Specs
